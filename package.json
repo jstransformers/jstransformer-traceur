@@ -5,7 +5,7 @@
   },
   "name": "jstransformer-traceur",
   "version": "0.0.1",
-  "description": "traceur support for JSTransformers.",
+  "description": "Traceur support for JSTransformers.",
   "keywords": [
     "jstransformer"
   ],
