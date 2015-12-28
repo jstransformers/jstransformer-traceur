@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.1.3: 2015-12-28
+
+- Updated to `traceur@0.0.95`
+
 ## v0.1.2: 2015-12-18
 
 - Updated to `traceur@0.0.94`
