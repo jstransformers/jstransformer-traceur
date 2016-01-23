@@ -4,7 +4,7 @@
     "traceur": "0.0.96"
   },
   "name": "jstransformer-traceur",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Traceur support for JSTransformers.",
   "keywords": [
     "jstransformer"
