@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "extend-shallow": "^2.0.1",
-    "traceur": "0.0.110"
+    "traceur": "0.0.111"
   },
   "name": "jstransformer-traceur",
   "version": "1.0.0",
