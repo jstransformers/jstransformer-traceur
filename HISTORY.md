@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.1.6: 2016-11-14
+
+- Updated Boilerplate
+
 ## v0.1.5: 2016-01-27
 
 - Updated to `traceur@0.0.100`
