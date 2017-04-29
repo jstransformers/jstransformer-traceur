@@ -1,5 +1,7 @@
 # jstransformer-traceur
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-traceur.svg)](https://greenkeeper.io/)
+
 [Traceur](http://npm.im/traceur) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-traceur/master.svg)](https://travis-ci.org/jstransformers/jstransformer-traceur)
