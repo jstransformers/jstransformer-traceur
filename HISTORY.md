@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.2: 2018-02-08
+
+- Updated to `extend-shallow@^3.0.2`
+
 ## v1.0.1: 2016-11-14
 
 - Updated Boilerplate
